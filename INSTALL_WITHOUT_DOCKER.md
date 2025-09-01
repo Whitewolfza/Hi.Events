@@ -60,7 +60,7 @@ Hi.Events has two main directories: `backend` (Laravel) and `frontend` (React).
    ```bash
    MAIL_MAILER=smtp
    MAIL_HOST=smtp.mailtrap.io
-   MAIL_PORT=2525
+   MAIL_PORT=465
    MAIL_USERNAME=your_mailtrap_username
    MAIL_PASSWORD=your_mailtrap_password
    MAIL_ENCRYPTION=tls
